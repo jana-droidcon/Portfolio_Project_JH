@@ -90,6 +90,20 @@ h6 {
 .project-descriptions {
   padding: 120px 60 px;
 }
+
+footer {
+  margin: 60px;
+}
+footer.contact-box {
+  background-color: var(--secondary-color);
+  text-align: center;
+  padding: 30px;
+  border-radius: 20px;
+}
+.email {
+  text-align: center;
+  text-decoration: none;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
