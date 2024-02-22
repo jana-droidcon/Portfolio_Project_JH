@@ -54,7 +54,7 @@ h6 {
   line-height: 1.5;
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content h1 {
@@ -98,7 +98,9 @@ h6 {
 .project-descriptions {
   padding: 120px 60 px;
 }
-
+.active {
+  color: var(--branding-color) !important;
+}
 footer {
   margin: 60px;
 }
