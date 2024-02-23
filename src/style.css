@@ -58,7 +58,7 @@ p {
   font-size: 24px;
 }
 .content-container {
-  padding: 60px 20px;
+  padding: 160px 20px;
 }
 
 .content h1 {
@@ -100,7 +100,7 @@ p {
   padding: 15px 30px;
 }
 .project-descriptions {
-  padding: 120px 60 px;
+  padding: 120px 60px;
 }
 .active {
   color: var(--branding-color) !important;
@@ -111,10 +111,11 @@ footer {
 footer .contact-box {
   background: var(--secondary-color);
   padding: 30px 160px;
-  border-radius: 20px;
+  border-radius: 10px;
   margin: 70px;
 }
 footer .contact-box p {
+  margin: 0;
 }
 footer .email-link {
   text-decoration: none;
@@ -132,6 +133,7 @@ footer .SM-Icons a {
   padding: 10px 14px;
   font-size: 18px;
   border-radius: 50%;
+  transition: all 100ms ease-in-out;
 }
 
 footer .SM-Icons a:hover {
@@ -147,9 +149,13 @@ footer .SM-Icons a:hover {
   h2 {
     font-size: 44px;
   }
+  h4 {
+    font-size: 26px;
+  }
   .hero {
     padding: 80px 20px;
   }
+
   .about-section {
     text-align: center;
     padding: 0;
