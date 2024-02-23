@@ -29,7 +29,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 p {
@@ -58,7 +58,7 @@ p {
   font-size: 24px;
 }
 .content-container {
-  padding: 100px 20px;
+  padding: 80px 35px;
 }
 
 .content h1 {
@@ -150,11 +150,8 @@ footer .SM-Icons a:hover {
   h2 {
     font-size: 44px;
   }
-  h4 {
+  h3 {
     font-size: 26px;
-  }
-  .hero {
-    padding: 80px 20px;
   }
 
   .about-section {
