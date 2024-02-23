@@ -90,6 +90,7 @@ p {
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+  margin-bottom: 20px;
 }
 
 .btn-branding-outline {
@@ -161,5 +162,9 @@ footer .SM-Icons a:hover {
   .project-descriptions {
     padding: 0;
     text-align: center;
+  }
+  .img {
+    flex: auto;
+    width: 50px;
   }
 }
